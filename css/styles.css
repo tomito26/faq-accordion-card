@@ -115,14 +115,20 @@ right: 0;
    .box-desktop{
        display: block;
        margin-top: -270px;
-       margin-left: -110px;
-       margin-bottom: 60px;
+       margin-left: -115px;
+       
 
+   }
+   .bg-pattern-desktop{
+       display: block;
+       margin-top: -700px;
+       margin-left: -600px;
    }
    .faq-items{
        width: 300px;
        margin-top: 50px;
        margin-left: 100px;
+       
    }
 
 }
